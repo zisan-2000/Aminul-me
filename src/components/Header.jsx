@@ -19,9 +19,7 @@ const Header = () => {
           </button>
         </div>
 
-        <div className="logo textColor text-2xl font-bold md:flex">
-          Md. Amenul Islam
-        </div>
+        <div className="logo textColor text-2xl font-bold md:flex">Amenul</div>
       </div>
 
       {/* Navigation Menu for Large Screens */}
